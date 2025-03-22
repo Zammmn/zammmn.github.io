@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -25,9 +25,5 @@ latest_posts:
 ---
 I’m Sam Jimenez, a mechanical engineering student at UC San Diego with a passion for building, problem-solving, and helping others learn. Before transferring here, I studied at College of Marin, where I earned the MESA Excellence in Physics Award and discovered how much I enjoy both engineering and mentoring. I've worked as a tutor in physics, chemistry, and math, and I take pride in making complex ideas feel intuitive. I interned with NASA and the California Space Grant Consortium, where I contributed to a rover design project—3D printing parts, CNC milling, and optimizing gear systems for better torque. Outside of school, I enjoy diving into hands-on projects like motorcycle repair, and I’m constantly learning new tools like SolidWorks and Fusion 360 to bring my ideas to life.
 
-[my linkedin](https://www.linkedin.com/in/sam-jmenez),
-
-
-
-
+[my linkedin](https://www.linkedin.com/in/sam-jmenez)
 
